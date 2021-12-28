@@ -8,7 +8,7 @@
 
 ## ✉️ Find me on:
 <p>
-    <a href="https://linkedin.com/in/arthur-barbosa-704726100" target="_blank" rel="noopener noreferrer"> <img
+    <a target="_blank" href="https://linkedin.com/in/arthur-barbosa-704726100" target="_blank" rel="noopener noreferrer"> <img
             src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40"></a>
     <a href="mailto:arthurbruno03@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
             alt="Gmail" height="40"></a>
